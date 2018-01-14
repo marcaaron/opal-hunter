@@ -1,0 +1,67 @@
+{
+	"opals":[
+		{
+			"name":"QUEENSLAND BOULDER OPAL",
+			"price": 546.99,
+			"img": "https://image.ibb.co/ncihxR/queensland_boulder.jpg",
+			"quantity":1,
+			"inCart":false
+		},
+		{
+			"name":"KOROI BOULDER OPAL",
+			"price": 301.99,
+			"img": "https://image.ibb.co/izrzBm/koroit_boulder.jpg",
+			"quantity":1,
+			"inCart":false
+		},
+		{
+			"name":"LIGHTNING RIDGE SPECIMEN",
+			"price": 452.99,
+			"img": "https://image.ibb.co/izARrm/lightning_ridge_specimen.jpg",
+			"quantity":1,
+			"inCart":false
+		},
+		{
+			"name":"PINEAPPLE GLAUBERITE",
+			"price": 15000.00,
+			"img": "https://image.ibb.co/fJExxR/pineapple_opal.jpg",
+			"quantity":1,
+			"inCart":false
+		},
+		{
+			"name":"BLACK OPAL",
+			"price": 4000.00,
+			"img": "https://preview.ibb.co/cg4uSR/black_opal.png",
+			"quantity":1,
+			"inCart":false
+		},
+		{
+			"name":"SEMI BLACK OPAL",
+			"price": 8400.00,
+			"img": "https://image.ibb.co/eaGy6m/semi_black_opal_8400.png",
+			"quantity":1,
+			"inCart":false
+		},
+		{
+			"name":"CRYSTAL OPAL",
+			"price": 1000.00,
+			"img": "https://image.ibb.co/cOkamm/crystal_opal_1000.png",
+			"quantity":1,
+			"inCart":false
+		},
+		{
+			"name":"WHITE OPAL",
+			"price": 3200.00,
+			"img": "https://image.ibb.co/nAd0K6/white_opal_3200.png",
+			"quantity":1,
+			"inCart":false
+		},
+		{
+			"name":"BOULDER OPAL",
+			"price": 450.00,
+			"img": "https://image.ibb.co/jM3je6/boulder_opal_450.png",
+			"quantity":1,
+			"inCart":false
+		}
+	]
+}
